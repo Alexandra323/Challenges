@@ -1,4 +1,5 @@
 #CHALLENGES TO PRACTICE
+
 #list reverse, string reverse
 # l=[1,2,3]
 # l.reverse()
@@ -6,8 +7,6 @@
 # string = "Hello"
 # string = string[::-1]
 # print(string)
-
-#####END
 
   
 #FUzzBUZZ
@@ -32,7 +31,7 @@
 # print(count1, count2, count3)
 
 
-
+# count how many of each vowels in a string
 vowels = 'aeiouy'
 string = 'alexandra'
 count = 0
@@ -46,7 +45,7 @@ for i in string:
 print(count) 
 print(dic)
 
-#BL2
+#BL2 indentify if the 2 given strings has the same letters
 string = 'acbd'
 s = 'abdc'
 # if sorted(string) == sorted(s):
@@ -79,4 +78,8 @@ s = 'abdc'
 # while ( j < len(n) ): 
 #     print(n[j], j)
 #     j+=1
+
+#####END
+
+
 
